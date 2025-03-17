@@ -4,3 +4,10 @@ db.sqlite3
 
 #Migration
 blogpy/migrations/
+blogpy/__pycache__/
+
+# Files
+files/
+
+# Docker
+docker-compose.yaml
